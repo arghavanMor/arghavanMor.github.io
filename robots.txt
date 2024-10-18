@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://arghavanMor.github.io/al-folio/sitemap.xml
+Sitemap: https://arghavanMor.github.io/sitemap.xml
