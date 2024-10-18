@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "GitHub Copilot AI pair programmer: Asset or Liability?", won 2023 Paper of the Year Award by  <a href='https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/announcements'>Journal of Systems and Software (JSS)</a> :trophy: 
+Our paper, "GitHub Copilot AI pair programmer: Asset or Liability?", won the 2023 Paper of the Year Award from the <a href='https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/announcements'>Journal of Systems and Software (JSS)</a> :trophy: 
