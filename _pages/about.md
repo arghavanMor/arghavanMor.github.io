@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://mila.quebec/en/directory/arghavan-moradi-dakhel'>Mila - Quebec Artificial Intelligence Institute</a>. 
- (she/her) How to <a href='https://en.wiktionary.org/wiki/%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86#Pronunciation'>pronounce</a> Arghavan
+subtitle: <p>Postdoctoral Researcher, <a href='https://mila.quebec/en/directory/arghavan-moradi-dakhel'>Mila - Quebec Artificial Intelligence Institute</a>. </p>
+ <p>(she/her) How to <a href='https://en.wiktionary.org/wiki/%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86#Pronunciation'>pronounce</a> Arghavan.</p>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Arghavan Moradi Dakhel, Ph.D.</p>
-    <p>Postdoctoral Researcher, <a href='https://mila.quebec/en/directory/arghavan-moradi-dakhel'>Mila - Quebec Artificial Intelligence Institute</a> </p>
-    <p>(she/her) How to <a href='https://en.wiktionary.org/wiki/%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86#Pronunciation'>pronounce</a> Arghavan</p>
+  more_info: > #<p>Arghavan Moradi Dakhel, Ph.D.</p> <p>Postdoctoral Researcher, <a href='https://mila.quebec/en/directory/arghavan-moradi-dakhel'>Mila - Quebec Artificial Intelligence Institute</a> </p> <p>(she/her) How to <a href='https://en.wiktionary.org/wiki/%D8%A7%D8%B1%D8%BA%D9%88%D8%A7%D9%86#Pronunciation'>pronounce</a> Arghavan</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

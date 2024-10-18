@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper, "Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing", was accepted to Information and Software Technology (IST 2024) journal.
