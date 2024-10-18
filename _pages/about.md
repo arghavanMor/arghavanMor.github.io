@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a postdoctoral researcher at Polytechnique Montréal and Mila, working with Prof. Foutse Khomh. My research is focused on integrating generative models to evolve the next generation of software creation. My key theme is how to use ML/DL techniques to create trustworthy, high-quality, and maintainable software. I work on establishing frameworks where both human developers and AI-based agents, such as LLM-based programming assistants, contribute to shaping software.  I am interested in researching ways to allow individuals with different levels of expertise to participate in the software creation process. I am also interested in personalizing the suggestions of LLM-based agents to align with the background and expertise level of the users.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my Ph.D. from Polytechnique Montréal under the supervision of Prof. Michel C. Desmarais and Prof. Foutse Khomh. During my Ph.D., I studied how to learn to generate high-quality code by leveraging different statistical learning techniques. I also used linguistic theories to model the expertise of developers based on their coding practices.
+
+Prior to my Ph.D., I have five years of experience in software development and project management in different companies including Samsung Electronics and Ericsson.
