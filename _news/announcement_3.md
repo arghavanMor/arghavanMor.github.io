@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, "Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing", has been accepted for publication in the Information and Software Technology (IST) journal.
+Our paper, <a href='https://www.sciencedirect.com/science/article/abs/pii/S0950584924000739'>"Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing"</a>, has been accepted for publication in the Information and Software Technology (IST) journal.

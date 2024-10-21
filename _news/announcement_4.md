@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our book chapter, titled "Generative AI for Software Development: A Family of Case Studies on Code Generation", has been published in the Generative AI for Effective Software Development, Springer Nature :books:
+Our two book chapters, titled <a href='https://link.springer.com/chapter/10.1007/978-3-031-55642-5_1'>"An Overview of Large Language Models"</a> and <a href='https://link.springer.com/chapter/10.1007/978-3-031-55642-5_7'>"Generative AI for Software Development: A Family of Case Studies on Code Generation"</a>, have been published in Generative AI for Effective Software Development by Springer Nature :books:
